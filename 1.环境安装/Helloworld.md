@@ -1,5 +1,7 @@
 我们照常以”Hello world"做为案例来演示一个最简单的 Go 程序，并分析讲解其构成。
 
+[github.com/yushuailiu/golang-notebook-code/chapter1/demo0](https://github.com/yushuailiu/golang-notebook-code/chapter1/demo0)
+
 ```
 package main
 
